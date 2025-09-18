@@ -3,9 +3,9 @@ A selection of 10 questions taken from the various lab activity to test our abil
 
 - Mining difficulty is not only represented by leading zeroes (powers of 16) but by a value (hex number) that is recalculated every 2016 blocks (in Bitcoin). Write a script demonstrating simplified proof-of-work, using 
 
-'if hash < target: block_found = True'
+  'if hash < target: block_found = True'
 
-and run your simplified proof-of-work in two different difficulties.
+  and run your simplified proof-of-work in two different difficulties.
 
 - Write a script to modify the difficulty every time a block is found faster than expected (increase difficulty) and readjusts if a block is found slower than expected (decrease difficulty).
 
