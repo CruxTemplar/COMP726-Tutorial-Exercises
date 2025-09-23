@@ -1,5 +1,5 @@
 # COMP726-Tutorial-Exercises
-A selection of 10 questions taken from the various lab activity to test our ability and understanding in COMP726. Such questions are as follows:
+A selection of 10 questions taken from the various lab activities to test our ability and understanding in COMP726. Such questions are as follows:
 
 - Mining difficulty is not only represented by leading zeroes (powers of 16) but by a value (hex number) that is recalculated every 2016 blocks (in Bitcoin). Write a script demonstrating simplified proof-of-work, using 
 
